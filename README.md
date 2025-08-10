@@ -9,7 +9,7 @@ I turn raw, messy data into clear business decisions. My toolbelt: **Excel + Pow
 - **Data Engineer (lite):** Ingesting APIs → staging in **SQLite/DuckDB**, transforming with SQL, and handing clean tables to BI.
 
 ### Highlight Projects
-- **Healthcare Readmissions (Excel + Power Query):** Variance analysis by condition, KPI cards, state heatmap, and executive summary. *Impact:* surfaces cost-saving targets within minutes.
+- [Healthcare Readmissions (Excel + Power Query):](https://github.com/fjrdz22/hospital-readmission-analysis.git) Variance analysis by condition, KPI cards, state heatmap, and executive summary. *Impact:* surfaces cost-saving targets within minutes.
 - **API → SQLite ETL (Python + Power Query):** Pulls market data on a schedule, validates, writes to SQLite, and feeds Excel dashboards.
 - **Sales vs Activity Drivers (SQL + Forecasting in Excel):** Correlates sales to drilling/completions activity; robust to pull-ins and outliers.
 - **Mini Warehouse (SQLite + DuckDB):** Dim/Fact layout, SQL transforms, and tests; easy to reproduce locally on a Mac.
