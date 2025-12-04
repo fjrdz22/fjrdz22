@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Francisco Javier — Data Analytics & Lite Data Engineering (Remote-Ready)
+# Francisco Javier — Data Analytics & Data Engineering (Remote-Ready)
 
 I turn raw, messy data into clear business decisions. My toolbelt: **Excel + Power Query**, **SQL**, and **Python** (pandas). I focus on building analyses and small ETL systems that stand up in the real world—simple to run, documented, and decision-ready.
 
