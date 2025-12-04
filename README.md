@@ -6,7 +6,7 @@ I turn raw, messy data into clear business decisions. My toolbelt: **Excel + Pow
 
 ### What I’m great at
 - **Data Analyst:** KPI design, advanced Excel models, Power Query transformations, SQL analysis, clean visuals + storytelling.
-- **Data Engineer (lite):** Ingesting APIs → staging in **SQLite/DuckDB**, transforming with SQL, and handing clean tables to BI.
+- **Data Engineer:** Ingesting APIs → staging in **SQLite/DuckDB**, transforming with SQL, and handing clean tables to BI.
 
 ### Highlight Projects
 - [Healthcare Readmissions (Excel + Power Query):](https://github.com/fjrdz22/hospital-readmission-analysis.git) Variance analysis by condition, KPI cards, state heatmap, and executive summary. *Impact:* surfaces cost-saving targets within minutes.
